@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @clement3872
+- 👋 Hi, I’m @clement3872 - studying at UFR of Versailles
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python, C++
 - 💞️ I’m looking to collaborate on ...
